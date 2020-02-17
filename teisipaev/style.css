@@ -1,0 +1,21 @@
+#container{
+    width: 100vw;
+    height: 50vh;
+    background-color: black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    /*justify-content: space-around;*/
+
+}
+
+.in-container{
+    color:white;
+    font-size: 2.5em;
+}
+
+div{
+    border: 3px solid red;
+    min-height: 25px;
+    background-color: blue;
+}
